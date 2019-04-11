@@ -22,4 +22,4 @@ workflows:
   build_and_check_vendor_vs_module:
     jobs:
       - build
-      - check-vendor-vs-mod
+      # - check-vendor-vs-mod uncomment me !
